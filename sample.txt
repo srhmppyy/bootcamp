@@ -1,0 +1,5 @@
+total 8034
+-rw-r--r-- 1 sarah.mae.p.payoyo 1049089      92 Jun 10 10:42 git-config.txt
+-rw-r--r-- 1 sarah.mae.p.payoyo 1049089      30 Jun 10 10:50 meng.txt
+-rw-r--r-- 1 sarah.mae.p.payoyo 1049089 8222370 Jun 10 10:42 openvpn-connect-2.5.0.100.msi
+-rw-r--r-- 1 sarah.mae.p.payoyo 1049089       0 Jun 10 11:08 sample.txt
