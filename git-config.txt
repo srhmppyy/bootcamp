@@ -1,0 +1,2 @@
+git config --global user.name "frankatacn"
+git config --global user.email "franklin.r.parejas@accenture.com"
